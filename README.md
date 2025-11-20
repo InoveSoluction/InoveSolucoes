@@ -1,3 +1,2 @@
 # InoveSolucoes
-
-Primeiro texto.
+Hey everyone, this is an advertising website that I developed just for fun ...
